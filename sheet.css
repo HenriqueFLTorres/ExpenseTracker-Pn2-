@@ -1,0 +1,57 @@
+table {
+    position: relative;
+    top: 250px;
+    display: table;
+    width: 80vw;
+    margin-left: auto;
+    margin-right: auto;
+    border-collapse: collapse;
+}
+    
+thead th{
+    background-color: #202020;
+    color: #FFF;
+    font-size: 30px;
+    font-weight: 600;
+    padding: 15px;
+    transition: 0.6s;
+}
+
+tr {
+    background-color: #ffffff;
+    text-align: center;
+    border-bottom: 1px solid #dddddd;
+    transition: 0.4s;
+}
+
+.table tbody tr:nth-of-type(even) {
+    background-color: #f3f3f3;
+    transition: 0.4s;
+}
+
+.table tbody tr:nth-of-type(even):hover {
+    background-color: rgb(149, 255, 186);
+}
+
+tr:last-of-type {
+    border-bottom: 5px solid #202020;
+}
+
+tr:hover {
+    background-color: rgb(149, 255, 186);
+}
+
+td {
+    color: #202020;
+    font-size: 22px;
+    font-family: 300;
+    padding: 7px;
+}
+
+th:hover{
+    background-color: #3a3a3a;
+}
+
+#rmv {
+    position: relative;
+}
