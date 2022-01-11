@@ -11,8 +11,8 @@
 #head {
     display: flex;
     justify-content: center;
-    border: 2px solid hotpink;
-    align-items: center; }
+    padding: 80px;
+}
 
 h1{ color: #202020;
     font-size: 80px;
