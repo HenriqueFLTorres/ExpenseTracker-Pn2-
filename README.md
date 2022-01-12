@@ -1,4 +1,4 @@
-# ExpenseTracker-Pn2-
+# ExpenseTracker [Pn2]
 Simple Expense Tracker, this is my project number two after <strong>36 days</strong> practicing and learning programming...
 
 <b> ------- Goals ------- </b><br>
