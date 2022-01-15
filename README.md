@@ -1,5 +1,5 @@
 # ExpenseTracker [Pn2]
-Simple Expense Tracker, this is my project number two after <strong>36 days</strong> practicing and learning programming...
+Simple Expense Tracker, this is my project number two after <strong>29 days</strong> practicing and learning programming...
 
 <b> ------- Goals ------- </b><br>
 Make it responsive <br>
